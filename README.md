@@ -1,0 +1,2 @@
+# mosgarage-devcontainer-base
+ 
